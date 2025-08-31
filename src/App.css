@@ -1,0 +1,20 @@
+.apology-card {
+  max-width: 500px;
+  background-color: #fff8f0;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: 'Georgia', serif;
+  color: #5a3e36;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.apology-card h2 {
+  color: #d6336c;
+}
+
+.signature {
+  margin-top: 20px;
+  font-style: italic;
+}
