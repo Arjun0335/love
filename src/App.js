@@ -6,15 +6,15 @@ function App() {
     <div className="apology-card">
       <h2>❤️ Dear Kuchupuchu,</h2>
       <p>
-        I want to offer my sincerest apologies for the ways I have let you down...
+        You are most beautiful girl i have ever seen with good heart and caring in nature
       </p>
       <p>
-        I regret not being there when you needed me most and for the moments lost due to my thoughtlessness...
+        I am always here for you especially at your worst and always take care of you. You are person i am fond with and i promise i will never cheat you in my life and will always  listen to you.
       </p>
       <p>
-        Please forgive me for my mistakes. I promise to learn, to grow, and to always cherish our bond.
+        You are cutieee pie of my life . You are like my radha. As your life partner i will just give you happiness in life no dard and no dukh from me. I will always love youuu and keep making you happy
       </p>
-      <p className="signature">Yours sincerely,<br/>Madam Ji</p>
+      <p className="signature">Yours sincerely,<br/>Aruu</p>
     </div>
   );
 }
